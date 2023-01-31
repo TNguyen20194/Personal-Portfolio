@@ -612,7 +612,7 @@ body.dark .loader_line:after{
 }
 .beny_tm_hero .content .job{
 	font-weight: 700;
-	font-size: 80px;
+	font-size: 55px;
 	color: #0F172A;
 	margin-bottom: 20px;
 	position: relative;
@@ -2421,7 +2421,7 @@ body.modal{
 	.beny_tm_topbar.animate .in{padding: 15px 0px;}
 	.beny_tm_topbar .logo img{max-width: 75px;max-height: auto;}
 	.beny_tm_hero .content .name{font-size: 23px;margin-bottom: 15px;}
-	.beny_tm_hero .content .job{font-size: 55px;margin-bottom: 17px;}
+	.beny_tm_hero .content .job{font-size: 45px;margin-bottom: 17px;}
 	.beny_tm_button a{padding: 8px 30px;}
 	.beny_tm_hero .content .text{margin-bottom: 32px;}
 	.beny_tm_hero .social ul li{margin-bottom: 15px;}
