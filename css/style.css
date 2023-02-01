@@ -1164,8 +1164,10 @@ body.dark .loader_line:after{
 	margin: 0px 0px 0px -30px;
 	list-style-type: none;
 	display: flex;
+	justify-content: center;
+	align-items: center;
 	flex-wrap: wrap;
-	gap: 1.735rem;
+	gap: 1.5rem;
 	padding-left: 30px;
 }
 /* Turn off flex in smaller screen */
