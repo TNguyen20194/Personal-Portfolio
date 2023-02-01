@@ -930,7 +930,7 @@ body.dark .loader_line:after{
 }
 .beny_tm_about .extra .tn-social-icon:hover img{
 	transform: scale(1.12);
-	cursor: auto;
+	cursor: pointer;
 }
 /* .beny_tm_about .extra .title{
 	color: #0F172A;
@@ -1536,7 +1536,7 @@ body.dark .loader_line:after{
 	background-color: rgba(0,0,0,.8);
 	opacity: 0;
 	visibility: hidden;
-	border-radius: 8px;
+	/* border-radius: 8px; */
 	
 	-webkit-transition: all .3s ease;
 	   -moz-transition: all .3s ease;
