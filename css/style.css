@@ -1170,7 +1170,7 @@ body.dark .loader_line:after{
 }
 /* Turn off flex in smaller screen */
 .beny_tm_services ul > * {
-	flex: 1 0 15rem;
+	flex: 0 0 250px;
 }
 .beny_tm_services ul li{
 	/* margin: 0px 0px 30px 0px; */
@@ -2508,7 +2508,7 @@ body.modal{
 	}
 	.beny_tm_title_holder h3{font-size: 30px;}
 	.beny_tm_services ul > * {
-		flex: 1 0 25%;
+		flex: 1 0 100px;
 	}
 	.beny_tm_about .list ul{margin: 0px;}
 	.beny_tm_about .list ul li{width: 100%;padding-left: 0px;}
