@@ -612,7 +612,7 @@ body.dark .loader_line:after{
 }
 .beny_tm_hero .content .job{
 	font-weight: 700;
-	font-size: 55px;
+	font-size: 4rem;
 	color: #0F172A;
 	margin-bottom: 20px;
 	position: relative;
@@ -2423,7 +2423,7 @@ body.modal{
 	.beny_tm_topbar.animate .in{padding: 15px 0px;}
 	.beny_tm_topbar .logo img{max-width: 75px;max-height: auto;}
 	.beny_tm_hero .content .name{font-size: 23px;margin-bottom: 15px;}
-	.beny_tm_hero .content .job{font-size: 47px;margin-bottom: 17px;}
+	.beny_tm_hero .content .job{font-size: 4rem;margin-bottom: 17px;}
 	.beny_tm_button a{padding: 8px 30px;}
 	.beny_tm_hero .content .text{margin-bottom: 32px;}
 	.beny_tm_hero .social ul li{margin-bottom: 15px;}
@@ -2463,7 +2463,7 @@ body.modal{
 	.content_inner {
 		text-align: center;
 	}
-	.beny_tm_hero .content .job{font-size: 60px;}
+	.beny_tm_hero .content .job{font-size: 3.75rem;}
 	.beny_tm_hero .social{display: none;}
 	.beny_tm_mobile_menu .mobile_in .logo img {
 		max-width: 60px;
