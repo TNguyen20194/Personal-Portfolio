@@ -1208,7 +1208,7 @@ body.dark .loader_line:after{
 	width: 60px;
 	height: 60px;
 	/* color: var(--clr-accent); */
-	margin-bottom: 20px;
+	margin-bottom: 15px;
 	fill:none;
 }
 .beny_tm_services ul li .html,
